@@ -14,7 +14,7 @@ statsmodels>=0.14.0
 # Jupyter (for notebooks)
 jupyter>=1.0.0
 notebook>=7.0.0
-
+ipykernel
 # Nice-to-have for better plots & progress bars
 tqdm>=4.66.0
 
