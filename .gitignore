@@ -1,5 +1,5 @@
 # Virtual environment
-.venv/
+venv/
 
 # Python cache
 __pycache__/
@@ -22,4 +22,4 @@ Thumbs.db
 
 # IDE
 # .vscode/
-# .idea/
+# .idea/*.Zone.Identifier
