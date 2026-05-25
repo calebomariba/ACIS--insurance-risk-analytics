@@ -20,6 +20,7 @@ tqdm>=4.66.0
 
 # additional
 dvc==3.64.2
+pathspec==0.11.2   
 scikit-learn
 xgboost==3.1.2
 shap
