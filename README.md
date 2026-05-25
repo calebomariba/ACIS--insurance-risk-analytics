@@ -76,6 +76,3 @@ This script:
 ![DVC](https://img.shields.io/badge/DVC-tracked-brightgreen?style=flat&logo=data-version-control) 
 ![Data Versioned](https://img.shields.io/badge/Data_Versioned-100%25-success) 
 ![Reproducible](https://img.shields.io/badge/Reproducible-yes-28a745)
-
-Challenge completed – Dec 10/2025
-Built by Nathanael Dereje
