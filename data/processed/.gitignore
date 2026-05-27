@@ -2,3 +2,4 @@
 /analysis_table.parquet
 /severity_train.parquet
 /severity_test.parquet
+/cleaned_data.parquet
